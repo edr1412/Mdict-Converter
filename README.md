@@ -1,2 +1,5 @@
 # Mdict-Converter
-转换mdict格式词典源文件中的@@@LINK
+
+Usage:
+
+Rename your source text file to `input.txt` and run 1.py.
